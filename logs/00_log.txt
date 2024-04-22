@@ -1,0 +1,8 @@
+Last Ran: 2023-02-01 | Execution Time: 1370.0677547454834 seconds | Count: 5964/7806
+Last Ran: 2023-02-01 | Execution Time: 1359.4569566249847 seconds | Count: 5964/7806
+Last Ran: 2023-02-01 | Execution Time: 1383.5495970249176 seconds | Count: 5964/7806
+Last Ran: 2023-02-02 | Execution Time: 1392.1444561481476 seconds | Count: 5965/7806 | Fails: 1841 
+Last Ran: 2023-02-02 | Execution Time: 1562.50257730484 seconds | Count: 5970/7806 | Fails: 1836 
+Last Ran: 2023-02-11 | Execution Time: 1264.1501557826996 seconds | Count: 1582/7801 | Fails: 6219 | rate limit
+Last Ran: 2023-02-11 | Execution Time: 5279.704844713211 seconds | Count: 5978/7801 | Fails: 1823 
+Last Ran: 2023-02-12 | Execution Time: 5299.896211862564 seconds | Count: 5978/7801 | Fails: 1823 
